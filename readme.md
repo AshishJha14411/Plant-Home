@@ -5,7 +5,7 @@ This is a sample page. The website focuses on implementing the basics of HTML an
 
 ### Deployed Version Link
 
-[PlantHome]()
+[PlantHome](https://planthomelco.netlify.app/)
 
 ### SnapShot of the WebPage
 
